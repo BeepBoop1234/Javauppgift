@@ -2,6 +2,8 @@ import javax.swing.JOptionPane;
 
 /* Uppgift 8.4 i javaboken
  */
+ 
+ // Test av git
 
 public class Skatt {
 
