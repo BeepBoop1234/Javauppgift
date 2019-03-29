@@ -1,8 +1,7 @@
 import javax.swing.JOptionPane;
 
-/* Uppgift 8.4 i javaboken
- */
- 
+// Uppgift 8.4 i javaboken
+ // Ankor är den domesticerade formen av gräsänder.
  // Test av git
 
 public class Skatt {
